@@ -29,7 +29,9 @@ I am currently following the official ["The Rust Programming Language"](https://
     - Comparing values with `std::cmp::Ordering`.
 
 ### Chapter 3: Common Programming Concepts
-👉 **Next Step: Variables & Mutability**
+- [x] **VAriables & Mutability**
+  - **📂 Projects:** [`variables`](./variables)
+-👉 **Next Step: Data Types**
 
 <p align="center">
   <i>Created with ❤️ and a lot of compilation errors.</i>
