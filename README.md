@@ -29,9 +29,16 @@ I am currently following the official ["The Rust Programming Language"](https://
     - Comparing values with `std::cmp::Ordering`.
 
 ### Chapter 3: Common Programming Concepts
-- [x] **VAriables & Mutability**
-  - **📂 Projects:** [`variables`](./variables)
-  - 👉 **Next Step: Data Types**
+- [x] **Variables & Mutability**
+  - **📂 Projects:** [`variables`](./variables), [`data types`](./data_types)
+  - **💡 Learned:**
+  - Variable declaration wit let.
+  - Scalar and Compound types.
+  - Data types (int, float, bool, char, tuple, array).
+  - Notations with ':'.
+  - Mutability with 'mut'.
+  - Math operations (+, -, *, /, %).
+  - 👉 **Next Step: Functions**
 
 <p align="center">
   <i>Created with ❤️ and a lot of compilation errors.</i>
