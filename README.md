@@ -30,7 +30,7 @@ I am currently following the official ["The Rust Programming Language"](https://
 
 ### Chapter 3: Common Programming Concepts
 - [x] **Variables & Mutability**
-  - **📂 Projects:** [`variables`](./variables), [`data types`](./data_types), [`functions`](./functions)
+  - **📂 Projects:** [`variables`](./variables), [`data types`](./data_types), [`functions`](./functions), [`Control Flow`](./control_flow/)
   - **💡 Learned:**
   - Variable declaration wit let.
   - Scalar and Compound types.
@@ -40,7 +40,11 @@ I am currently following the official ["The Rust Programming Language"](https://
   - Math operations (+, -, *, /, %).
   - Function declaration and usage.
   - Statement vs Expression.
-  - 👉 **Next Step: Flow Control**
+  - Flow of control with `if` statements.
+  - Flow of control with `loop`, `while`, and `for`.
+
+### Chapter 4: Ownership
+  - 👉 **Next Step: Understanding Ownership**
 
 <p align="center">
   <i>Created with ❤️ and a lot of compilation errors.</i>
