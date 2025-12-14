@@ -30,7 +30,7 @@ I am currently following the official ["The Rust Programming Language"](https://
 
 ### Chapter 3: Common Programming Concepts
 - [x] **Variables & Mutability**
-  - **📂 Projects:** [`variables`](./variables), [`data types`](./data_types)
+  - **📂 Projects:** [`variables`](./variables), [`data types`](./data_types), [`functions`](./functions)
   - **💡 Learned:**
   - Variable declaration wit let.
   - Scalar and Compound types.
@@ -38,7 +38,9 @@ I am currently following the official ["The Rust Programming Language"](https://
   - Notations with ':'.
   - Mutability with 'mut'.
   - Math operations (+, -, *, /, %).
-  - 👉 **Next Step: Functions**
+  - Function declaration and usage.
+  - Statement vs Expression.
+  - 👉 **Next Step: Flow Control**
 
 <p align="center">
   <i>Created with ❤️ and a lot of compilation errors.</i>
