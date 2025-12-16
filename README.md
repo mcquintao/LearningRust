@@ -30,7 +30,7 @@ I am currently following the official ["The Rust Programming Language"](https://
 
 ### Chapter 3: Common Programming Concepts
 - [x] **Variables & Mutability**
-  - **📂 Projects:** [`variables`](./variables), [`data types`](./data_types), [`functions`](./functions), [`Control Flow`](./control_flow/)
+  - **📂 Projects:** [`variables`](./variables), [`data types`](./data_types)
   - **💡 Learned:**
   - Variable declaration wit let.
   - Scalar and Compound types.
@@ -38,13 +38,25 @@ I am currently following the official ["The Rust Programming Language"](https://
   - Notations with ':'.
   - Mutability with 'mut'.
   - Math operations (+, -, *, /, %).
+- [x] **Functions & Control Flow**
+  - **📂 Projects:** [`functions`](./functions), [`control_flow`](./control_flow/)
+  - **💡 Learned:**
   - Function declaration and usage.
   - Statement vs Expression.
   - Flow of control with `if` statements.
   - Flow of control with `loop`, `while`, and `for`.
 
 ### Chapter 4: Ownership
-  - 👉 **Next Step: Understanding Ownership**
+- [x] **Understanding Ownership**
+  - **📂 Projects:** [`ownersip`](./ownership/)
+  - **💡 Learned:**
+    - Ownership rules in Rust.
+    - Stack vs Heap memory.
+    - owner definition and scope.
+    - Ownership transfer.
+    - Cloning data.
+    - Boxing and heap allocation.
+  - 👉 **Next Step: References and Borrowing**
 
 <p align="center">
   <i>Created with ❤️ and a lot of compilation errors.</i>
